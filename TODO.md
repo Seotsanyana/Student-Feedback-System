@@ -2,15 +2,15 @@
 
 ## Steps to Complete
 
-- [ ] Initialize Git repository
-- [ ] Add all files to Git
-- [ ] Commit changes with message "Initial commit"
-- [ ] Set remote origin to <https://github.com/Seotsanyana/Student-Feedback-System.git>
-- [ ] Push to GitHub
-- [ ] Update next.config.mjs for static export (add output: 'export')
-- [ ] Build project for static export
-- [ ] Install Surge CLI
-- [ ] Deploy to Surge.sh
+- [x] Initialize Git repository
+- [x] Add all files to Git
+- [x] Commit changes with message "Initial commit"
+- [x] Set remote origin to <https://github.com/Seotsanyana/Student-Feedback-System.git>
+- [x] Push to GitHub
+- [x] Update next.config.mjs for static export (add output: 'export')
+- [x] Build project for static export
+- [x] Install Surge CLI
+- [x] Deploy to Surge.sh
 
 ## Notes
 
