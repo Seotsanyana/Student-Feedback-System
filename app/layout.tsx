@@ -9,7 +9,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Student Feedback System",
+  title: "Student-Feedback-System",
   description: "Share your course experience and help us improve",
   generator: "v0.app",
 }

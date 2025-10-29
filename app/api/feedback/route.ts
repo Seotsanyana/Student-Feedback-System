@@ -1,7 +1,7 @@
 import { type NextRequest, NextResponse } from "next/server"
 import { getAllFeedback, addFeedback, deleteFeedback } from "@/lib/feedback-store"
 
-export const dynamic = "force-dynamic"
+export const dynamic = "force-static"
 
 // GET endpoint to retrieve all feedback
 export async function GET() {
