@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1761741335437,
+    "studentName": "Boitumelo Thekiso",
+    "courseCode": "PYTHON CS02",
+    "comments": "shortage of material",
+    "rating": 3,
+    "createdAt": "2025-10-29T12:35:35.437Z"
+  },
+  {
+    "id": 1761741372507,
+    "studentName": "Thabo Letsie",
+    "courseCode": "CALCULUS BICA1120",
+    "comments": "lecturer explains everything clearly",
+    "rating": 5,
+    "createdAt": "2025-10-29T12:36:12.507Z"
+  },
+  {
+    "id": 1761741449861,
+    "studentName": "Tohlang Motlomelo",
+    "courseCode": "DATABASE BIDT1130",
+    "comments": "interesting class practicals  including games like  SQL Island",
+    "rating": 5,
+    "createdAt": "2025-10-29T12:37:29.861Z"
+  },
+  {
+    "id": 1761741486716,
+    "studentName": "Lepolesa Kokonyana",
+    "courseCode": "STATISTICS BIST 1140",
+    "comments": "lecturer miss classes",
+    "rating": 2,
+    "createdAt": "2025-10-29T12:38:06.716Z"
+  },
+  {
+    "id": 1761741568753,
+    "studentName": "Lefa  Nchesa",
+    "courseCode": "C++ BICP1170",
+    "comments": "lecturer is always there for questions",
+    "rating": 5,
+    "createdAt": "2025-10-29T12:39:28.753Z"
+  }
+]
